@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 vincent staff
 =======
  vincent staff
 >>>>>>> c32f09597bb6b693e881dc1aa6975ed26c688209
+=======
+chown vincent:staff*
+>>>>>>> 25eb705601933899fd2b2d584f6d477f583662bb
